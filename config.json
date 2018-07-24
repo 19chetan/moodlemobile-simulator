@@ -2,16 +2,16 @@
     "sites": [
         {
             "name": "Moodle Demo Student",
-            "url": "http://school.moodle.net",
-            "username": "student",
-            "password": "moodle",
+            "url": "http://localhost/moodle/login/index.php",
+            "username": "vrukshatech",
+            "password": "Vruksh@tech@12",
             "deleteable": 0
         },
         {
             "name": "Moodle Demo Teacher",
-            "url": "http://school.moodle.net",
-            "username": "teacher",
-            "password": "moodle",
+            "url": "http://localhost/moodle/login/index.php",
+            "username": "vrukshatech",
+            "password": "Vruksh@tech@12",
             "deleteable": 0
         }
     ],
